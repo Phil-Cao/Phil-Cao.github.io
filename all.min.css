@@ -245,7 +245,7 @@ body,button {
 .ft-page {
 	padding:1em;
 	background-color:#fed1ea;
-	text-align:center
+	text-align:right
 }
 .flowtime h1,.flowtime h2,.flowtime h3,.flowtime h4,.flowtime h5,.flowtime h6,.flowtime p,.flowtime ul,.flowtime ol,.flowtime dl,.flowtime li,.flowtime dt,.flowtime dd {
 	display:block;
@@ -536,8 +536,7 @@ body,button {
 	padding:0
 }
 .full-img img {
-	width:100%;
-	height:100%
+
 }
 .full-img h3,.full-img .text,.full-img .center-text {
 	position:absolute;
@@ -593,7 +592,7 @@ body,button {
 }
 .page-1 .text1 {
 	font-size:3em;
-	color:#FA4A4A;
+	color: #333;
 	line-height:2em;
 	margin:0.5em 0 0 0.5em
 }
@@ -636,7 +635,6 @@ body,button {
 	position:absolute;
 	bottom:0;
 	left:0;
-	max-width:70%
 }
 .page-6 h3 {
 	position:absolute;
@@ -654,7 +652,7 @@ body,button {
 .page-7 h3 {
 	position:absolute;
 	top:1em;
-	left:50%;
+	left:100%;
 	padding:0;
 	margin-top:0;
 	margin-left:-240px;
@@ -770,7 +768,6 @@ body,button {
 	text-align:center
 }
 .page-28 {
-	background:#b7e7f3 url(img/iali40_bg.jpg) bottom repeat-x;
 	padding:0
 }
 .page-28 img {
@@ -783,7 +780,7 @@ body,button {
 	right:1em;
 	bottom:360px;
 	text-align:right;
-	color:#127184
+	color:#bc195b
 }
 .page-29 {
 	background:#0d85d1;
